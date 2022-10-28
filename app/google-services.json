@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "317603289702",
+    "project_id": "tugas-crashlytics",
+    "storage_bucket": "tugas-crashlytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317603289702:android:da150f971b0e078a8f2ba7",
+        "android_client_info": {
+          "package_name": "com.zahirar.challengechap5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317603289702-uu000assm09dlh5hlh93rqe693tglv67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zahirar.challengechap5",
+            "certificate_hash": "5bc719deee04e53f07d4b12e73a3a27ce9d5a2a9"
+          }
+        },
+        {
+          "client_id": "317603289702-m8i4afm5sufnnqjmb5o10ce9u8k04bsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvTtQQeMlKdQkvdRXDkG5KP5m6rVrYb7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317603289702-m8i4afm5sufnnqjmb5o10ce9u8k04bsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
